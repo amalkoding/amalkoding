@@ -1,7 +1,7 @@
 Hi! My name is M. Amal Ikhsani
 ========================================================================================================================================
 
-I'm fullstack web developer based in Palembang, Indonesia.
+I'm full-stack web developer based in Palembang, Indonesia.
 <br/>
 
 ### Skills
